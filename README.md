@@ -5,4 +5,4 @@
 * CSS
 * JAVASCRIPT
 
-![Preview](https://github.com/MariaMuniz/UsoApiViaCep/blob/main/imgForm.png)
+![Preview](https://github.com/MariaMuniz/UsoApiViaCep/blob/main/img/imgForm.png)
