@@ -4,3 +4,5 @@
 * Html
 * CSS
 * JAVASCRIPT
+
+![Preview](https://github.com/MariaMuniz/UsoApiViaCep/blob/main/imgForm.png)
